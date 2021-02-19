@@ -1,0 +1,11 @@
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\bin\Debug\netcoreapp3.1\Lab.1.z.2.exe
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\bin\Debug\netcoreapp3.1\Lab.1.z.2.deps.json
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\bin\Debug\netcoreapp3.1\Lab.1.z.2.runtimeconfig.json
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\bin\Debug\netcoreapp3.1\Lab.1.z.2.runtimeconfig.dev.json
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\bin\Debug\netcoreapp3.1\Lab.1.z.2.dll
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\bin\Debug\netcoreapp3.1\Lab.1.z.2.pdb
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\obj\Debug\netcoreapp3.1\Lab.1.z.2.csprojAssemblyReference.cache
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\obj\Debug\netcoreapp3.1\Lab.1.z.2.AssemblyInfoInputs.cache
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\obj\Debug\netcoreapp3.1\Lab.1.z.2.AssemblyInfo.cs
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\obj\Debug\netcoreapp3.1\Lab.1.z.2.dll
+D:\Documents\антон\OS.Labs\Lab.1.z.2\Lab.1.z.2\obj\Debug\netcoreapp3.1\Lab.1.z.2.pdb
